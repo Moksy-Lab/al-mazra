@@ -3862,47 +3862,184 @@ section, footer {
     -moz-border-radius: .25rem;
 }
 
-a {
-    color: var(--brand-color);
+/* #foring(a85adb22de706555) #css starts  */
+.footera85adb22de706555 ul {
+    margin: 0px;
+    padding: 0px
 }
-
-a:hover {
-    color: var(--light-brand-color);
+.footera85adb22de706555 .footer-section {
+  background: #151414;
+  position: relative
 }
-
-h1 {
-    font-family: var(--primary-font);
-    color: var(--brand-color);
-    font-size: 4rem;
-    font-weight: 600;
+.footera85adb22de706555 .footer-cta {
+  border-bottom: 1px solid #373636
 }
-h2 {
-    font-family: var(--primary-font);
-    color: var(--brand-color);
-    font-size: 2.8rem;
-    font-weight: 500;
+.footera85adb22de706555 .single-cta i {
+  color: #ff5e14;
+  font-size: 30px;
+  float: left;
+  margin-top: 8px
 }
-h3 {
-    font-size: 2rem;
-    font-weight: 500;
+.footera85adb22de706555 .cta-text {
+  padding-left: 15px;
+  display: inline-block
 }
-h4 {
-    font-size: 1rem;
-    font-weight: 700;
+.footera85adb22de706555 .cta-text h4 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 2px
+}
+.footera85adb22de706555 .cta-text span {
+  color: #757575;
+  font-size: 13px
+}
+.footera85adb22de706555 .footer-content {
+  position: relative;
+  z-index: 2
+}
+.footera85adb22de706555 .footer-pattern img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 330px;
+  background-size: cover;
+  background-position: 100% 100%
+}
+.footera85adb22de706555 .footer-logo {
+  margin-bottom: 10px
+}
+.footera85adb22de706555 .footer-logo img {
+    width: 55px;
+    height: 55px;
+    margin-bottom: 17px
+}
+.footera85adb22de706555 .footer-logo span {
+    color: #7c7c7c;
+    font-size: 25px;
     text-transform: uppercase;
+    font-weight: 900;
+    padding-top: 8px;
+    padding-left: 5px
 }
+.footera85adb22de706555 .footer-text p {
+  margin-bottom: 14px;
+  font-size: 14px;
+      color: #7e7e7e;
+  line-height: 28px
+}
+.footera85adb22de706555 .footer-social-icon span {
+  color: #fff;
+  display: block;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 20px
+}
+.footera85adb22de706555 .footer-social-icon a {
+  color: #fff;
+  font-size: 16px;
+  margin-right: 15px
+}
+.footera85adb22de706555 .footer-social-icon i {
+  height: 35px;
+  width: 35px;
+  text-align: center;
+  line-height: 38px;
+  border-radius: 50%
+}
+.footera85adb22de706555 .facebook-bg{
+  background: #3B5998
+}
+.footera85adb22de706555 .twitter-bg{
+  background: #55ACEE
+}
+.footera85adb22de706555 .google-bg{
+  background: #DD4B39
+}
+.footera85adb22de706555 .footer-widget-heading h3 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 40px;
+  position: relative
+}
+.footera85adb22de706555 .footer-widget-heading h3::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -15px;
+  height: 2px;
+  width: 50px;
+  background: #ff5e14
+}
+.footera85adb22de706555 .footer-widget ul li {
+  display: inline-block;
+  float: left;
+  width: 50%;
+  margin-bottom: 12px
+}
+.footera85adb22de706555 .footer-widget ul li a:hover{
+  color: #ff5e14
+}
+.footera85adb22de706555 .footer-widget ul li a {
+  color: #878787;
+  text-transform: capitalize
+}
+.footera85adb22de706555 .subscribe-form {
+  position: relative
+}
+.footera85adb22de706555 .subscribe-form input {
+  width: 100%;
+  padding: 14px 28px;
+  background: #2E2E2E;
+  border: 1px solid #2E2E2E;
+  color: #fff
+}
+.footera85adb22de706555 .subscribe-form button {
+    position: absolute;
+    right: 0;
+    background: #ff5e14;
+    padding: 13px 20px;
+    border: 1px solid #ff5e14;
+    top: 0
+}
+.footera85adb22de706555 .subscribe-form button i {
+  color: #fff;
+  font-size: 25px;
+  transform: rotate(-6deg)
+}
+.footera85adb22de706555 .copyright-area{
+  background: #202020;
+  padding: 25px 0
+}
+.footera85adb22de706555 .copyright-text p {
+  margin: 0;
+  font-size: 14px;
+  color: #878787
+}
+.footera85adb22de706555 .copyright-text p a{
+  color: #ff5e14
+}
+.footera85adb22de706555 .footer-menu li {
+  display: inline-block;
+  margin-left: 20px
+}
+.footera85adb22de706555 .footer-menu li:hover a{
+  color: #ff5e14
+}
+.footera85adb22de706555 .footer-menu li a {
+  font-size: 14px;
+  color: #878787
+}
+@media (max-width:991px) {
+    .footera85adb22de706555 .footer-column1{
+        margin-bottom: 30px
+    }
+    
+}
+/* #foring(a85adb22de706555) #css ends  */
 
-h5 {
-    font-size: 0.875rem;
-}
-h6 {
-    font-size: 0.813rem;
-    color: var(--text-color);
-}
-
-p {
-    font-size: .9rem;
-}
 
 .divider {
     display: block;
